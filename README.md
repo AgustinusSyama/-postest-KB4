@@ -2,11 +2,6 @@
 NAMA AGUSTINUS SYAMA
 NIM 2009106150
 
-
-Posttest 4 Preprocessing
-Ahmad Zidan Maulidinnur
-2009106018
-Kecerdasan Buatan A2 2020
 import pandas as pd
 import numpy as np
 df = pd.read_csv('Stroke.csv')
